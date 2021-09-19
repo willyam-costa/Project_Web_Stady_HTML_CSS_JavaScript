@@ -24,7 +24,7 @@ O projeto é um exercício proposto pelo curso do grupo Caelum.
 
 ![Web 2](https://github.com/willyam-costa/assest/blob/main/project_web_img/Tela%20Sobre.png)
 ```bash
-                                              #Tela de informção sobre a empresa e sua história
+                                        #Tela de informção sobre a empresa e sua história
 
 ```
 
