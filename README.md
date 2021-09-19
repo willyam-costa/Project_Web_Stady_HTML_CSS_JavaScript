@@ -1,6 +1,6 @@
 # Project Web
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/willyam-costa/Project_Web_Stady_HTML_CSS_JavaScript/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/willyam-costa/Project_Web_Stady_HTML_CSS_JavaScript/new/master) 
 
 # Sobre o projeto
 
