@@ -10,9 +10,23 @@ O projeto Web é uma aplicação web que consiste na criação de uma página, m
 
 O projeto é um exercício proposto pelo curso do grupo Caelum.
 ## Layout web
-![Web 1](https://raw.githubusercontent.com/willyam-costa/assest/main/Captura%20de%20Tela%202021-09-18%20às%2005.07.51.png)
+![Web 1](https://github.com/willyam-costa/assest/blob/main/project_web_img/Tela%20inicial.png)
+```bash
+                                              #Tela inicial
 
-![Web 2]()
+```
+
+![Web 2](https://github.com/willyam-costa/assest/blob/main/project_web_img/Tela%20selecao%20cursos.png)
+```bash
+                                              #Tela Seleção de Cursos
+
+```
+
+![Web 2](https://github.com/willyam-costa/assest/blob/main/project_web_img/Tela%20Sobre.png)
+```bash
+                                              #Tela de informção sobre a empresa e sua história
+
+```
 
 # Tecnologias utilizadas
 ## Front end
