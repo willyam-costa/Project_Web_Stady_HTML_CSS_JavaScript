@@ -6,11 +6,11 @@
 
 https://www.caelum.com.br
 
-O projeto Web é uma aplicação full stack web
+O projeto Web é uma aplicação web que consiste na criação de uma página, mais próxima do real possível, de uma empresa de música chamada MusiDot. 
 
-A aplicação consiste em criar um projeto front-end para a empresa MusicDot, projeto proposto no curso da caelum.
+O projeto é um exercício proposto pelo curso do grupo Caelum.
 ## Layout web
-![Web 1](https://github.com/willyam-costa/assest/blob/main/Captura%20de%20Tela%202021-09-18%20às%2005.06.27.png)
+![Web 1](https://raw.githubusercontent.com/willyam-costa/assest/main/Captura%20de%20Tela%202021-09-18%20às%2005.07.51.png)
 
 ![Web 2]()
 
